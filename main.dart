@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
         child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-            Image.network ('https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_.jpg',
+            Image.asset ('assets/Bb.jpg',
             width: 150,
             height: 150,
             ),
